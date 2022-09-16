@@ -24,5 +24,5 @@ Options for Reason 1 and Reason 2:
 (vii) Appears early in the book or is otherwise highlighted
 (viii)Appears towards the end of the book or is otherwise hidden
 (ix) Other
-Blooms_level_extended.json
-This contains extended definition of bloom's taxonomy. In this json file, the keys are bloom's level i.e. Remember, Understand, Apply, Analyze, Evaluate and Create and values are list of verbs, a list of WH words and a list of templates. 
+Customized_definition_of_BT_for_Interview.json
+This contains customized definition of bloom's taxonomy for Interview. In this json file, the keys are bloom's level i.e. Remember, Understand, Apply, Analyze, Evaluate and Create and values are list of verbs, a list of WH words and a list of templates. 
